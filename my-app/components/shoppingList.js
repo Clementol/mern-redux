@@ -21,7 +21,7 @@ const DeleteButton = () => {
                         style={{marginRight: '5rem'}}
                         onClick={() => dispatch(deleteItem(_id))}
                         >   
-                            Delete
+                            Delete t
                         </button>
                         {name}</li>
                 })}
