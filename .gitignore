@@ -4,3 +4,4 @@ my-app/node_modules
 my-app/build
 my-app/.next
 my-app/.env
+my-app/package-lock.json
